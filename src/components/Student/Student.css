@@ -1,0 +1,58 @@
+.results-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .section {
+    margin-bottom: 30px;
+  }
+  
+  .section h1 {
+    text-align: center;
+    color: #831238;
+  }
+  
+  .dropdowns {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .dropdown {
+    width: 45%;
+  }
+  
+  label {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  select {
+    padding: 5px;
+    width: 100%;
+    margin-top: 5px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #f4f4f4;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  tr:hover {
+    background-color: #f1f1f1;
+  }
+  

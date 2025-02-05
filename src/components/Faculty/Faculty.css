@@ -1,0 +1,39 @@
+.fac-container {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .fac-container h1 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  
+  .subject-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: white;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 6px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .fac-container label {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .fac-container select {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  

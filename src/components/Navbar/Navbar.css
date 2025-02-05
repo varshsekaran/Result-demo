@@ -1,0 +1,22 @@
+:root {
+    --color_cerulean_approx: #831238;
+}
+
+
+.navbar {
+    padding: 10px 60px 10px;
+    background-color: #831238;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.login {
+    color: white;
+    font-size: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+}
+.navbar a {
+    text-decoration: none; 
+    color: inherit; 
+  }
